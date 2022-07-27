@@ -663,11 +663,11 @@ if num == 15:
 
 print("Готово! Все логи были сохранены в файл logs.txt")
 print("""
-Subscribe to Yan4ik Channel on YouTube! 
-https://youtube.com/channel/UCu6l8wKI7WGlwoD1It_vcdw
+Subscribe to Online Hacking Channel on YouTube! 
+https://youtube.com/onlinehacking2
 --Thanks for using this programm!--
 
-MODYFIED BY 0X40
+MODYFIED BY Online Hacking
 
 ------Version 1.1------
 """)

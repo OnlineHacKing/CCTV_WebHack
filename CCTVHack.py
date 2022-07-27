@@ -281,8 +281,8 @@ print('------Version 1.2------\n')
 time.sleep(5)
 os.system(delet)
 print("""
-Subscribe to Yan4ik Channel on YouTube! 
-https://youtube.com/channel/UCu6l8wKI7WGlwoD1It_vcdw
+Subscribe to OnlineHacking Channel on YouTube! 
+https://youtube.com/onlinehacking2
 
 ------Version 1.2------
 """)
